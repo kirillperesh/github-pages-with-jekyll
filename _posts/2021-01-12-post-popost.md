@@ -1,8 +1,3 @@
----
-layout: post
-title:  "Welcome to Jekyll!"
----
-
 # Some Title
 
 ### A word and another word and another word and another word and another word and another word and another word
